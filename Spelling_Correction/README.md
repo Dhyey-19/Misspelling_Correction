@@ -12,7 +12,7 @@ Prerequisites
 Installation
 1. Clone this repository or download the source code:
 -> ```bash
-git clone https://github.com/your-repo/Spelling_Correction_Project.git
+git clone https://github.com/Dhyey-19/Misspelling_Correction/
 cd Spelling_Correction_Project
 
 2. Install dependencies (if any):

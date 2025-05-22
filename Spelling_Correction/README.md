@@ -12,8 +12,8 @@ Prerequisites
 Installation
 1. Clone this repository or download the source code:
 -> ```bash
-git clone https://github.com/your-repo/Spelling_Correction_Project.git
-cd Spelling_Correction_Project
+git clone https://github.com/Dhyey-19/Misspelling_Correction/
+cd Spelling_Correction
 
 2. Install dependencies (if any):
 -> ```bash
@@ -26,7 +26,7 @@ Running the Code
 -> Run the script:
 -> bash
       python main.py
--> The corrected sentences will be saved in solution.txt.
+-> The corrected sentences will be saved in english_eval.corrected.txt.
 
 Project Structure
 Spelling_Correction_Project/

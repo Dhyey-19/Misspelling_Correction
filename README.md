@@ -63,6 +63,3 @@ For any issues or queries, reach out to: 23ceuog078@ddu.ac.in
 
 ## ⭐ Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
-
----
-Made with ❤️ by Code Crafters
